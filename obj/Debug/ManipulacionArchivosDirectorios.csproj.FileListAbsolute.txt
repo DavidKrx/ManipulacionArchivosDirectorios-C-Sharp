@@ -1,0 +1,10 @@
+C:\Users\david\source\repos\ManipulacionArchivosDirectorios\bin\Debug\ManipulacionArchivosDirectorios.exe.config
+C:\Users\david\source\repos\ManipulacionArchivosDirectorios\bin\Debug\ManipulacionArchivosDirectorios.exe
+C:\Users\david\source\repos\ManipulacionArchivosDirectorios\bin\Debug\ManipulacionArchivosDirectorios.pdb
+C:\Users\david\source\repos\ManipulacionArchivosDirectorios\obj\Debug\ManipulacionArchivosDirectorios.csprojAssemblyReference.cache
+C:\Users\david\source\repos\ManipulacionArchivosDirectorios\obj\Debug\ManipulacionArchivosDirectorios.Form1.resources
+C:\Users\david\source\repos\ManipulacionArchivosDirectorios\obj\Debug\ManipulacionArchivosDirectorios.Properties.Resources.resources
+C:\Users\david\source\repos\ManipulacionArchivosDirectorios\obj\Debug\ManipulacionArchivosDirectorios.csproj.GenerateResource.cache
+C:\Users\david\source\repos\ManipulacionArchivosDirectorios\obj\Debug\ManipulacionArchivosDirectorios.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\ManipulacionArchivosDirectorios\obj\Debug\ManipulacionArchivosDirectorios.exe
+C:\Users\david\source\repos\ManipulacionArchivosDirectorios\obj\Debug\ManipulacionArchivosDirectorios.pdb
